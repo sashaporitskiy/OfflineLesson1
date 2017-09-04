@@ -4,7 +4,7 @@ public class OffLineZad2 {
         System.out.println("      / || \\");
         System.out.println("     /  ||  \\");
         System.out.println("    /   ||   \\");
-        System.out.println("   /    ||    \\");
+        System.out.println("   /       ||    \\");
         System.out.println("  /     ||     \\");
         System.out.println("        || ");
         System.out.println(" ________________");
